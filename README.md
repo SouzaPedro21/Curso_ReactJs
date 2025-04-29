@@ -43,11 +43,11 @@ npm i react-router-dom@6
 
 ### 2.1 Ativar o e-mail + links de reset 
  
-2. **Authentication ▸ Settings ▸ Sign In/Sign Up ▸ Auth Providers ▸ Email** 
+2. **Authentication ▸ Configuration ▸ Sign In/Sign Up ▸ Auth Providers ▸ Email** 
  
   - *Confirm email:* **ON**
- 
-  - *Password recovery:* **ON**
+
+3. **Authentication ▸ Configuration ▸ URL Configuration**
  
   - *Site URL:* `http://localhost:5173`
  
